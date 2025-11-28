@@ -9,9 +9,7 @@
         "tb_logger": "tb_logger",
         "results": "results",
         "checkpoint": "checkpoint",
-        //"resume_state": "experiments/sr_NUSNMR_250927_062659/checkpoint/I540000_E54"
-        "resume_state": "experiments/sr_NUSNMR_250903_131642/checkpoint/I700000_E70"
-        //"resume_state": "experiments/sr_NUSNMR_250731_171115/checkpoint/I540000_E54"
+        "resume_state": "experiments/sr_NUSNMR_250927_062659/checkpoint/I540000_E54"
     },
     "datasets": {
         "train": {
