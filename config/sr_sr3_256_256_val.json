@@ -32,13 +32,8 @@
             "data_len": 5 // data length in validation
         },
         "test": {
-            //"real_data_path": "./data/hl/spec_HSQC_Gb1_data",
-            //"real_data_path": "./data/unreal-170-768",
-            //"real_data_path": "./data/titr/titr-256-300",
-            //"real_data_path": "./data/lyq/spec_msrb",
-            "real_data_path": "./data/A3DK08_hyper_spec_slices/label_spec",
-            //"real_data_path": null,
-            "sample_rate": 0.08
+            "real_data_path": "./data/hl/spec_HSQC_Gb1_data",
+            "sample_rate": 0.15
         }
     },
     "model": {
