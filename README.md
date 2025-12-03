@@ -1,5 +1,5 @@
 ### NUS_Diffsuion-main
-This is the official repository for the **NUS_Diffusion** project, which likely focuses on diffusion-based models, potentially for image synthesis, video generation, or other generative tasks. The repository contains the core codebase, configuration files, datasets, and experiment results.
+The repository contains the core codebase, configuration files, datasets, and experiment results.
 
 The `experiments.rar` file contains serialized models from past experiments. Extract it to review offline.
 
